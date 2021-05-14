@@ -1,5 +1,5 @@
 # cmsc126
-For GitHub Repository
+For GitHub Repository in cmsc126
 
 <!DOCTYPE html>
 <html lang="en">
